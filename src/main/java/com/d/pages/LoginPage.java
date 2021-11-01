@@ -2,10 +2,15 @@ package com.d.pages;
 
 public class LoginPage {
 
-	public void LoginPage() {
+	public void loginPage() {
 		System.out.println("Login page");
+		String un = "admin";
+		String pwd = "admin";
+		System.out.println(un);
+		System.out.println(pwd);
 	}
-	public void LoginSet() {
+	public void loginSet() {
 		System.out.println("Login set");
 	}
+
 }
