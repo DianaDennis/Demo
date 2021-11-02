@@ -4,5 +4,7 @@ public class MyTest {
 	
 	String name ="DianaTest";
 	int age = 35;
+	String city = "NY";
+	
 
 }
