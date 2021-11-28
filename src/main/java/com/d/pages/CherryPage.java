@@ -9,4 +9,7 @@ public class CherryPage {
 		String state = "Alabama";
 	}
 
+	public void test() {
+		System.out.println("test feature");
+	}
 }
