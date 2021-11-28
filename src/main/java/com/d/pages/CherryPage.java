@@ -12,4 +12,8 @@ public class CherryPage {
 	public void test() {
 		System.out.println("test feature");
 	}
+	
+	public boolean name() {
+		return false;
+	}
 }
