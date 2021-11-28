@@ -8,7 +8,7 @@ public class CassicPage {
 		int div = k1/k;
 		System.out.println(div);
 		System.out.println("bye);
-		
+		int sal = 12;
 	}
 
 }
