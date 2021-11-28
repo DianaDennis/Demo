@@ -1,4 +1,4 @@
-package com.d.pages;
+package com.d;
 
 public class CartPage {
 
